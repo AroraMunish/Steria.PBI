@@ -1,0 +1,88 @@
+StateProvinceName,City,PostalCode,Avg Sales
+California,Los Angeles,90012,8907
+California,City Of Commerce,90040,1631
+California,Bell Gardens,90201,8826
+California,Beverly Hills,90210,7392
+California,Downey,90241,1990
+California,Santa Monica,90401,5333
+California,Torrance,90505,1130
+California,Cerritos,90703,3969
+California,Bellflower,90706,1549
+California,Lakewood,90712,7063
+California,Carson,90746,6520
+California,Long Beach,90802,7443
+California,Glendale,91203,8638
+California,Canoga Park,91303,2482
+California,Woodland Hills,91364,2612
+California,Burbank,91502,1974
+California,San Gabriel,91776,1806
+California,West Covina,91791,2092
+California,Chula Vista,91910,3289
+California,Imperial Beach,91932,7438
+California,Grossmont,91941,1289
+California,Lemon Grove,91945,8560
+California,Lincoln Acres,91950,9667
+California,National City,,1956
+California,Spring Valley,91977,8944
+California,El Cajon,92020,7516
+California,San Diego,92102,4473
+California,Coronado,92118,7153
+California,Barstow,92311,1108
+California,Newport Beach,92625,7644
+California,La Jolla,92806,2660
+California,Camarillo,93010,5527
+California,Burlingame,94010,1611
+California,Colma,94014,3810
+California,Daly City,94015,5781
+California,Redwood City,94063,4920
+California,San Carlos,94070,4776
+California,San Francisco,94109,7970
+California,Palo Alto,94303,7795
+California,Concord,94519,8890
+California,Fremont,94536,2653
+California,Oakland,94611,9510
+California,Berkeley,94704,650
+California,Mill Valley,94941,2948
+California,Novato,94947,8630
+California,Santa Cruz,95062,1855
+California,Citrus Heights,95610,1791
+Oregon,Beaverton,97005,2411
+Oregon,Clackamas,97015,2711
+Oregon,Lake Oswego,97034,860
+Oregon,Oregon City,97045,9210
+Oregon,W. Linn,97068,7623
+Oregon,Woodburn,97071,1254
+Oregon,Portland,97205,3121
+Oregon,Milwaukie,97222,8910
+Oregon,Salem,97301,1643
+Oregon,Corvallis,97330,9980
+Oregon,Lebanon,97355,557
+Oregon,Clackamas,97015-6403,6199
+Washington,Bellevue,98004,7734
+Washington,Newport Hills,98006,8651
+Washington,Bothell,98011,3463
+Washington,Edmonds,98020,3430
+Washington,Issaquah,98027,6769
+Washington,Kenmore,98028,9384
+Washington,Kirkland,98033,1431
+Washington,Lynnwood,98036,4559
+Washington,Redmond,98052,6339
+Washington,Renton,98055,4255
+Washington,Sammamish,98074,5409
+Washington,Seattle,98104,7452
+Washington,Ballard,98107,9552
+Washington,Burien,98168,5760
+Washington,Everett,98201,8726
+Washington,Bellingham,98225,2011
+Washington,Marysville,98270,5563
+Washington,Monroe,98272,8747
+Washington,Sedro Woolley,98284,661
+Washington,Bremerton,98312,545
+Washington,Port Orchard,98366,9775
+Washington,Puyallup,98371,9965
+Washington,Tacoma,98403,4470
+Washington,Olympia,98501,9936
+Washington,Chehalis,98532,4229
+Washington,Yakima,98901,9345
+Washington,Spokane,99202,7888
+Washington,Walla Walla,99362,6188

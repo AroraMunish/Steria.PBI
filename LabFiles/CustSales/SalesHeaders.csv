@@ -1,0 +1,2 @@
+BusinessEntityID,SalesOrderNumber,SalesOrderDetail,OrderDate,Product,ProductCategory,SalesAmount
+ID Of Customer,Order No,SalesOrderDetail No,Order Date,Product,Category,Sales Amount
